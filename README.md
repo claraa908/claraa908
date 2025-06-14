@@ -60,4 +60,4 @@
   </div>
 </div>
 
-![snake](https://raw.githubusercontent.com/claraa908/claraa908/output/github-snake.svg?cacheBust=4)
+![snake](https://raw.githubusercontent.com/claraa908/claraa908/output/github-snake.svg?cacheBust=5)
