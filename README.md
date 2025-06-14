@@ -1,11 +1,9 @@
-## 🌸 Olá, eu me chamo Clara!
-
-Eu sou estudante de Ciências da Computação e possuo foco principal em desenvolvimento web back-end. Tenho experiência em linguagens como PHP, C, C++ e Java. Estou sempre em busca de novas oportunidades para aplicar e expandir meus conhecimentos práticos na área da computação.
+## 🌸 Oiee, sou a Clara!
 
 ## 📊 Estatísticas Gerais:
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=clara908&show_icons=true&theme=date_night&rank_icon=github" height="150" alt="stats graph" />
-    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=clara908&layout=compact&langs_count=8&theme=date_night" />
+    <img src="https://github-readme-stats.vercel.app/api?username=claraa908&show_icons=true&theme=date_night&rank_icon=github" height="150" alt="stats graph" />
+    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=claraa908&layout=compact&langs_count=8&theme=date_night" />
 </div>
 
 ## 🔥 Commits:
