@@ -1,4 +1,5 @@
-## 🌸 Oiee, sou a Clara!
+## 👾 Oiee, sou a Clara!
+Atualmente sou estudante de Ciências da Computação na Universidade Federal do Ceará (UFC) e possuo diploma técnico em Informática. Tenho interesse na área de back-end e desenvolvimento web...
 
 ## 📊 Estatísticas Gerais:
   <div align="center">
