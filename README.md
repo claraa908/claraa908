@@ -4,14 +4,19 @@
 <p align="center">Sou estudante de Ciências da Computação na Universidade Federal do Ceará (UFC) e possuo diploma técnico em Informática. Tenho interesse por desenvolvimento web back-end e minhas principais linguagens são PHP, C, C++ e Java. Estou sempre atualizando meus conhecimentos e buscando novas experiencias na área.
 
 #
-<h3 align="center" style="color:'#ce877f';">Status: </h3>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=CE877F&repeat=false&width=435&lines=Stats" alt="Typing SVG" /></a>
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=claraa908&theme=date_night" alt="streak stats" />
+</div>
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=claraa908&show_icons=true&theme=date_night&rank_icon=github" height="150" alt="stats graph" />
     <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=claraa908&layout=compact&langs_count=8&theme=date_night" />
 </div>
 
 #
-<img align="center" src="https://img.shields.io/badge/Commits-_-ce877f?style=flat-square&color=ce877f&labelColor=0d1117">
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=CE877F&repeat=false&width=435&lines=Commit" alt="Typing SVG" /></a>
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=claraa908&theme=date_night" alt="streak stats" />
 </div>
