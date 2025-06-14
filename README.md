@@ -37,7 +37,7 @@
 </div>
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/claraa908/claraa908/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/claraa908/caraa908/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/claraa908/claraa908/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-date_night.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake-date_night.svg" />
+  <img alt="github-snake date_night" src="github-contribution-grid-snake-date_night.svg" />
 </picture>
