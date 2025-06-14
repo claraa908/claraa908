@@ -45,4 +45,5 @@
   <img align="center" alt="Clara-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
-![snake gif](https://raw.githubusercontent.com/claraa908/claraa908/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/claraa908/claraa908/output/github-snake.svg?cacheBust=2)
+
