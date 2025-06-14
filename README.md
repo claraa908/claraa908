@@ -11,7 +11,7 @@
 </div>
 
 #
-<h3 align="center" style="color:'#ce877f';">Commits:</h3>
+<img align="center" src="https://img.shields.io/badge/Commits-_-ce877f?style=flat-square&color=ce877f&labelColor=0d1117">
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=claraa908&theme=date_night" alt="streak stats" />
 </div>
