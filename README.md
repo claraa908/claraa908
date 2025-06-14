@@ -1,5 +1,5 @@
 ## 👾 Oiee, sou a Clara!
-Atualmente sou estudante de Ciências da Computação na Universidade Federal do Ceará (UFC) e possuo diploma técnico em Informática. Tenho interesse na área de back-end e desenvolvimento web...
+Sou estudante de Ciências da Computação na Universidade Federal do Ceará (UFC) e possuo diploma técnico em Informática. Tenho interesse por desenvolvimento web back-end e minhas principais linguagens são PHP, C, C++ e Java. Estou sempre atualizando meus conhecimentos e buscando novas experiencias na área.
 
 ## 📊 Estatísticas Gerais:
   <div align="center">
