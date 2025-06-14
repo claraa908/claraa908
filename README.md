@@ -5,10 +5,25 @@
 <p align="center">Sou estudante de Ciências da Computação na Universidade Federal do Ceará (UFC) e possuo diploma técnico em Informática. Tenho interesse por desenvolvimento web back-end e minhas principais linguagens são PHP, C, C++ e Java. Estou sempre atualizando meus conhecimentos e buscando novas experiencias na área.
 
 #
-<div style="padding-top:49.000%;position:relative; align="right">
-  <iframe src="https://gifer.com/embed/3VnY" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe>
-</div>
+<a href="https://pt.bloggif.com/" title="chihiro" align="right">
+  <img src="https://data.bloggif.com/distant/user/store/9/6/2/c/14423b6df8e36d6b641bd8cf2d53c269.gif" width="400" height="196" />
+</a>
 
+<h3 align="left">Connect with me!</h3>
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=#CE877F&color:FFF)](mailto:claracruz.fac12@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=#CE877F&color:FFF)](https://www.linkedin.com/in/clara-cruz-b6b093263)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=#CE877F&color:FFF)](https://www.instagram.com/imnot__claire/)
+
+<h3 align="left">My Stack ~</h3>
+<div style="display: inline_block" align="left"><br>
+  <img align="center" alt="Clara-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Clara-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Clara-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Clara-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Clara-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Clara-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+</div>
+#
 
 ## 📊 Estatísticas Gerais:
   <div align="center">
@@ -21,22 +36,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=claraa908&theme=date_night" alt="streak stats" />
 </div>
 
-##
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Clara-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Clara-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Clara-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Clara-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Clara-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Clara-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-</div>
-
-##
-
-<div> 
-  <a href = "mailto:claracruz.fac12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=#ce877f" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/clara-cruz-b6b093263/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=#ce877f&color:#ce877f" target="_blank"></a> 
-</div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/claraa908/claraa908/output/github-contribution-grid-snake-dark.svg">
