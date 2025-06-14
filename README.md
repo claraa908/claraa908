@@ -5,9 +5,7 @@
 <p align="center">Sou estudante de Ciências da Computação na Universidade Federal do Ceará (UFC) e possuo diploma técnico em Informática. Tenho interesse por desenvolvimento web back-end e minhas principais linguagens são PHP, C, C++ e Java. Estou sempre atualizando meus conhecimentos e buscando novas experiencias na área.
 
 #
-<a href="https://pt.bloggif.com/" title="chihiro" align="right">
-  <img src="https://data.bloggif.com/distant/user/store/9/6/2/c/14423b6df8e36d6b641bd8cf2d53c269.gif" width="400" height="196" />
-</a>
+<img align="right" alt="" height="190px" src="https://data.bloggif.com/distant/user/store/9/6/2/c/14423b6df8e36d6b641bd8cf2d53c269.gif">
 
 <h3 align="left">Connect with me!</h3>
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=#CE877F&color:FFF)](mailto:claracruz.fac12@gmail.com)
@@ -23,7 +21,6 @@
   <img align="center" alt="Clara-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Clara-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
-#
 
 ## 📊 Estatísticas Gerais:
   <div align="center">
@@ -35,7 +32,6 @@
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=claraa908&theme=date_night" alt="streak stats" />
 </div>
-
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/claraa908/claraa908/output/github-contribution-grid-snake-dark.svg">
