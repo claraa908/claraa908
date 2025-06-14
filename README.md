@@ -17,46 +17,47 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=CE877F&center=true&repeat=false&width=435&lines=%E2%82%8A%CB%9A%E2%9C%A7%EA%92%B0Commit%3A+" alt="Typing SVG" />
   </a>
 
+#
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=claraa908&theme=date_night" alt="streak stats" />
 </div>
 
-<table>
-  <tr>
-    <td align="left" style="vertical-align: top;">
-      <!-- Contato -->
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=CE877F&center=false&repeat=false&width=435&lines=%E2%82%8A%CB%9A%E2%9C%A7%EA%92%B0Contato%3A+" alt="Typing SVG" />
-      </a>
-      <div style="margin: 10px 0;">
-        <a href="https://www.instagram.com/imnot__claire/" target="_blank">
-          <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FFF&color=CE877F">
-        </a>
-        <a href="mailto:claracruz.fac12@gmail.com" target="_blank">
-          <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=CE877F&color=CE877F">
-        </a>
-        <a href="https://www.linkedin.com/in/clara-cruz-b6b093263" target="_blank">
-          <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=CE877F&color=CE877F">
-        </a>
-      </div>
-      <!-- Linguagens -->
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=CE877F&center=false&repeat=false&width=435&lines=%E2%82%8A%CB%9A%E2%9C%A7%EA%92%B0Linguagens%3A+" alt="Typing SVG" />
-      </a>
-      <div style="margin-top: 10px;">
-        <img alt="Clara-C" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-        <img alt="Clara-C++" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-        <img alt="Clara-Java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-        <img alt="Clara-PHP" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-        <img alt="Clara-MySQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-        <img alt="Clara-PostgreSQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-      </div>
-    </td>
-    <td align="right" style="vertical-align: top; padding-left: 20px;">
-      <img src="https://data.bloggif.com/distant/user/store/9/6/2/c/14423b6df8e36d6b641bd8cf2d53c269.gif" height="190px" alt="GIF animado">
-    </td>
-  </tr>
-</table>
+#
+
+<img align="right" alt="GIF" height="190px" src="https://data.bloggif.com/distant/user/store/9/6/2/c/14423b6df8e36d6b641bd8cf2d53c269.gif">
+
+<div align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=CE877F&center=false&repeat=false&width=435&lines=%E2%82%8A%CB%9A%E2%9C%A7%EA%92%B0Contato%3A+" alt="Contato" />
+  </a>
+  <div>
+    <a href="https://www.instagram.com/imnot__claire/" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FFF&color=CE877F">
+    </a>
+    <a href="mailto:claracruz.fac12@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=CE877F&color=CE877F">
+    </a>
+    <a href="https://www.linkedin.com/in/clara-cruz-b6b093263" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=CE877F&color=CE877F">
+    </a>
+  </div>
+</div>
+
+<br clear="all" />
+
+<div align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=CE877F&center=false&repeat=false&width=435&lines=%E2%82%8A%CB%9A%E2%9C%A7%EA%92%B0Linguagens%3A+" alt="Linguagens" />
+  </a>
+  <div style="margin-top: 10px;">
+    <img alt="Clara-C" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img alt="Clara-C++" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+    <img alt="Clara-Java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img alt="Clara-PHP" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    <img alt="Clara-MySQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img alt="Clara-PostgreSQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  </div>
+</div>
 
 ![snake](https://raw.githubusercontent.com/claraa908/claraa908/output/github-snake.svg?cacheBust=4)
