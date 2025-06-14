@@ -7,6 +7,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=CE877F&center=true&repeat=false&width=435&lines=Stats%3A+" alt="Typing SVG" /></a>
 <\div>
+  
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=claraa908&show_icons=true&theme=date_night&rank_icon=github" height="150" alt="stats graph" />
     <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=claraa908&layout=compact&langs_count=8&theme=date_night" />
@@ -14,8 +15,10 @@
 
 #
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=CE877F&center=true&repeat=false&width=435&lines=Commit%3A+" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=CE877F&center=true&repeat=false&width=435&lines=Commit%3A+" alt="Typing SVG" />
+  </a>
 <\div>
+
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=claraa908&theme=date_night" alt="streak stats" />
 </div>
