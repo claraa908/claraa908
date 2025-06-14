@@ -10,7 +10,7 @@ Eu sou estudante de Ciências da Computação e possuo foco principal em desenvo
 
 ## 🔥 Commits:
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alana102&theme=date_night" alt="streak stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=clara908&theme=date_night" alt="streak stats" />
 </div>
 
 ##
