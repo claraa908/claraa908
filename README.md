@@ -14,9 +14,8 @@
 
 #
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=CE877F&center=true&repeat=false&width=435&lines=%E2%82%8A%CB%9A%E2%9C%A7%EA%92%B0Commit%3A+" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=CE877F&center=true&repeat=false&width=435&lines=%E2%82%8A%CB%9A%E2%9C%A7%EA%92%B0Commits%3A+" alt="Typing SVG" />
   </a>
-#
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=claraa908&theme=date_night" alt="streak stats" />
