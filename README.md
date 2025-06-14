@@ -8,6 +8,12 @@
 <img align="right" alt="" height="190px" src="https://data.bloggif.com/distant/user/store/9/6/2/c/14423b6df8e36d6b641bd8cf2d53c269.gif">
 
 <h3 align="left">Connect with me!</h3>
+<div> 
+  <a href="https://www.instagram.com/imnot__claire/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=#CE877F&color:FFF"></a>
+  <a href = "mailto:claracruz.fac12@gmail.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=#CE877F&color:FFF" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/clara-cruz-b6b093263" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=#CE877F&color:FFF" target="_blank"></a> 
+  
+</div>
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=#CE877F&color:FFF)](mailto:claracruz.fac12@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=#CE877F&color:FFF)](https://www.linkedin.com/in/clara-cruz-b6b093263)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=#CE877F&color:FFF)](https://www.instagram.com/imnot__claire/)
