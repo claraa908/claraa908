@@ -2,7 +2,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CE877F&width=435&lines=++++++%E2%82%8A%CB%9A%E2%9C%A7%EA%92%B0Ol%C3%A1%2C+sou+a+Clara!%EA%92%B1%E2%82%8A%CB%9A%E2%9C%A7" alt="Typing SVG" /></a>
 </div>
 
-#
 <p align="center">Sou estudante de Ciências da Computação na Universidade Federal do Ceará (UFC) e possuo diploma técnico em Informática. Tenho interesse por desenvolvimento web back-end e minhas principais linguagens são PHP, C, C++ e Java. Estou sempre atualizando meus conhecimentos e buscando novas experiencias na área.
 
 ## 📊 Estatísticas Gerais:
