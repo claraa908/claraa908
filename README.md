@@ -36,8 +36,4 @@
   <img align="center" alt="Clara-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-date_night.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake-date_night.svg" />
-  <img alt="github-snake date_night" src="github-contribution-grid-snake-date_night.svg" />
-</picture>
+![snake gif](https://raw.githubusercontent.com/<seu-usuario>/<seu-repo>/output/github-contribution-grid-snake.svg)
