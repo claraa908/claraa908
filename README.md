@@ -4,6 +4,9 @@
 
 <p align="center">Sou estudante de Ciências da Computação na Universidade Federal do Ceará (UFC) e possuo diploma técnico em Informática. Tenho interesse por desenvolvimento web back-end e minhas principais linguagens são PHP, C, C++ e Java. Estou sempre atualizando meus conhecimentos e buscando novas experiencias na área.
 
+<a href="https://pt.bloggif.com/" title="chihiro"><img src="https://data.bloggif.com/distant/user/store/9/4/1/3/890b91d1922b0cbd4c581be8c2213149.gif" width="200" height="98" align = "center"/></a>
+
+
 ## 📊 Estatísticas Gerais:
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=claraa908&show_icons=true&theme=date_night&rank_icon=github" height="150" alt="stats graph" />
