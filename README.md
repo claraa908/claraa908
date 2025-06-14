@@ -45,6 +45,8 @@
   </div>
 </div>
 
+<br>
+
 <div align="left" style="margin-top: 20px;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=CE877F&center=false&repeat=false&width=435&lines=%E2%82%8A%CB%9A%E2%9C%A7%EA%92%B0Linguagens%3A+" alt="Typing SVG" />
