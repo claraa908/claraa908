@@ -8,7 +8,7 @@
 
 ## 🔥 Commits:
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=clara908&theme=date_night" alt="streak stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=claraa908&theme=date_night" alt="streak stats" />
 </div>
 
 ##
