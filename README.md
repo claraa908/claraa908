@@ -4,14 +4,14 @@
 <p align="center">Sou estudante de Ciências da Computação na Universidade Federal do Ceará (UFC) e possuo diploma técnico em Informática. Tenho interesse por desenvolvimento web back-end e minhas principais linguagens são PHP, C, C++ e Java. Estou sempre atualizando meus conhecimentos e buscando novas experiencias na área.
 
 #
-<h3 align="center" style="colour:'#ce877f';">Status: </h3>
+<h3 align="center" style="color:'#ce877f';">Status: </h3>
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=claraa908&show_icons=true&theme=date_night&rank_icon=github" height="150" alt="stats graph" />
     <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=claraa908&layout=compact&langs_count=8&theme=date_night" />
 </div>
 
 #
-<h3 align="center" style="colour:'#ce877f';">Commits:</h3>
+<h3 align="center" style="color:'#ce877f';">Commits:</h3>
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=claraa908&theme=date_night" alt="streak stats" />
 </div>
@@ -19,14 +19,14 @@
 #
 <img align="right" alt="" height="190px" src="https://data.bloggif.com/distant/user/store/9/6/2/c/14423b6df8e36d6b641bd8cf2d53c269.gif">
 
-<h3 align="left" style="colour:'#ce877f';">Minhas Redes:</h3>
+<h3 align="left" style="color:'#ce877f';">Minhas Redes:</h3>
 <div align="left"> 
   <a href="https://www.instagram.com/imnot__claire/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=CE877F&color=CE877F"></a>
   <a href = "mailto:claracruz.fac12@gmail.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=CE877F&color=CE877F" target="_blank"></a>
   <a href="https://www.linkedin.com/in/clara-cruz-b6b093263" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=CE877F&color=CE877F" target="_blank"></a> 
 </div>
 
-<h3 align="left" style="colour:'#ce877f';">Linguagens:</h3>
+<h3 align="left" style="color:'#ce877f';">Linguagens:</h3>
 <div style="display: inline_block" align="left"><br>
   <img align="center" alt="Clara-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Clara-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
