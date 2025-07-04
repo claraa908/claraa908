@@ -50,14 +50,14 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=CE877F&center=false&repeat=false&width=435&lines=%E2%82%8A%CB%9A%E2%9C%A7%EA%92%B0Linguagens%3A+" alt="Typing SVG" />
   </a>
 
-  <!--<div style="margin-top: 10px;">
-    <img alt="Clara-C" height="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img alt="Clara-C++" height="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-    <img alt="Clara-Java" height="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img alt="Clara-PHP" height="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img alt="Clara-MySQL" height="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img alt="Clara-PostgreSQL" height="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  </div>-->
+  <div style="margin-top: 10px;">
+    <img alt="Clara-C" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img alt="Clara-C++" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+    <img alt="Clara-Java" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img alt="Clara-PHP" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    <img alt="Clara-MySQL" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img alt="Clara-PostgreSQL" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  </div>
 </div>
 
 ![snake](https://raw.githubusercontent.com/claraa908/claraa908/output/github-snake.svg)
