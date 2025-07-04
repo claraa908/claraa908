@@ -51,12 +51,12 @@
   </a>
 
   <div style="margin-top: 10px;">
-    <img alt="Clara-C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img alt="Clara-C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-    <img alt="Clara-Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img alt="Clara-PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img alt="Clara-MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img alt="Clara-PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+    <img alt="Clara-C" height="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img alt="Clara-C++" height="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+    <img alt="Clara-Java" height="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img alt="Clara-PHP" height="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    <img alt="Clara-MySQL" height="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img alt="Clara-PostgreSQL" height="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   </div>
 </div>
 
