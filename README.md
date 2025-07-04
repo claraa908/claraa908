@@ -23,7 +23,7 @@
 
 #
 
-<img align="right" alt="" height="190px" src="https://data.bloggif.com/distant/user/store/9/6/2/c/14423b6df8e36d6b641bd8cf2d53c269.gif">
+<img align="right" alt="" height="180px" src="https://data.bloggif.com/distant/user/store/9/6/2/c/14423b6df8e36d6b641bd8cf2d53c269.gif">
 
 <div align="left">
   <a href="https://git.io/typing-svg">
