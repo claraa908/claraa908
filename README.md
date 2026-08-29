@@ -18,7 +18,7 @@
   </a>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=claraa908&theme=date_night" alt="streak stats" />
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=claraa908&theme=date-night&locale=pt&date_format=j%20M%5B%20Y%5D"alt="GitHub Streak" /></a>
 </div>
 
 #
