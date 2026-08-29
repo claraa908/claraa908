@@ -8,8 +8,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=CE877F&center=true&repeat=false&width=435&lines=%E2%82%8A%CB%9A%E2%9C%A7%EA%92%B0Stats%3A+" alt="Typing SVG" /></a>
   
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=claraa908&show_icons=true&theme=date_night&rank_icon=github" height="150" alt="stats graph" />
-    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=claraa908&layout=compact&langs_count=8&theme=date_night" />
+    <img src="https://github-readme-stats-clara.vercel.app/api?username=claraa908&show_icons=true&theme=date_night&rank_icon=github" height="150" alt="stats graph" />
+    <img height=150 src="https://github-readme-stats-clara.vercel.app/api/top-langs?username=claraa908&layout=compact&langs_count=8&theme=date_night" />
 </div>
 
 #
