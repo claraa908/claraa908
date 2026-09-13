@@ -30,17 +30,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=CE877F&center=false&repeat=false&width=435&lines=%E2%82%8A%CB%9A%E2%9C%A7%EA%92%B0Contato%3A+" alt="Typing SVG" />
   </a>
 
-  <div style="margin: 10px 0;">
-    <a href="https://www.instagram.com/imnot__claire/" target="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FFF&color=CE877F" style="border-radius: 8px;">
-    </a>
-    <a href="mailto:claracruz.fac12@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=CE877F&color=CE877F" style="border-radius: 8px;">
-    </a>
-    <a href="https://www.linkedin.com/in/clara-cruz-b6b093263" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=CE877F&color=CE877F" style="border-radius: 8px;">
-    </a>
-</div>
+  [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FFF&color=CE877F)](https://www.instagram.com/imnot__claire/) 
+  [![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=CE877F&color=CE877F)](mailto:claracruz.fac12@gmail.com) 
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=CE877F&color=CE877F)](https://www.linkedin.com/in/clara-cruz-b6b093263)
 </div>
 
 <br>
