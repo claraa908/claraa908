@@ -23,7 +23,7 @@
 
 #
 
-<img align="right" alt="" height="190px" src="https://giphy.com/embed/93ijBF8mmpxdRYsIDz">
+<img align="right" alt="" height="190px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExendpY3UydG9weGF2azc1aWtlYWMwMXR3cWRnOHM0ODJoOW1mMjRtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93ijBF8mmpxdRYsIDz/giphy.gif">
 
 <div align="left">
   <a href="https://git.io/typing-svg">
