@@ -32,15 +32,15 @@
 
   <div style="margin: 10px 0;">
     <a href="https://www.instagram.com/imnot__claire/" target="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FFF&color=CE877F">
+      <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FFF&color=CE877F" style="border-radius: 8px;">
     </a>
     <a href="mailto:claracruz.fac12@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=CE877F&color=CE877F">
+      <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=CE877F&color=CE877F" style="border-radius: 8px;">
     </a>
     <a href="https://www.linkedin.com/in/clara-cruz-b6b093263" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=CE877F&color=CE877F">
+      <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=CE877F&color=CE877F" style="border-radius: 8px;">
     </a>
-  </div>
+</div>
 </div>
 
 <br>
